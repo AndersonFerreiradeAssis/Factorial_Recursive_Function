@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655501878 source:c:\users\thecu\desktop\projetos\recursive function\factorial recursive function\main.c
+	<stdio.h>
+	<stdlib.h>
+
